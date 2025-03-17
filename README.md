@@ -2,9 +2,8 @@
  Etudiante en 1ere année de BUT informatique | 🚀 Passionné par |   
 
 ## 🚀 À propos de moi  
-🔹 [Brève description de ton parcours]  
-🔹 [Technos que tu maîtrises]  
-🔹 [Types de projets sur lesquels tu travailles]  
+🔹 description  
+🔹 mes projets 
 
 ## 🛠️ Compétences  
 - **Langages** : [Ex : JavaScript, Python, C++]  
