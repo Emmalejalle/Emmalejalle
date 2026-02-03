@@ -1,5 +1,5 @@
 # Bonjour, Je m'appelle Emma Le Jallé !👋
- Etudiante en 1ere année de BUT informatique | 🚀 Passionné par |   
+ Etudiante en 2eme année de BUT informatique | 🚀 Passionné par |   
 
 ## 🚀 À propos de moi  
 🔹 description  
