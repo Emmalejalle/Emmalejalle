@@ -1,7 +1,7 @@
 # Emma Le Jallé
 
 🎓 BUT Informatique – IUT de Vannes  
-💻 Développement Java / JavaFX • UI/UX (Figma) • Projets concrets  
+💻 Développement 
 📅 Recherche de stage : 13 avril → 19 juin 2026
 
 ---
