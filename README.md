@@ -23,6 +23,10 @@ Interface graphique complète avec vues dynamiques, gestion de données et sépa
  **Jeu Java – Marienbad (console)**  
 Gestion complète de la logique du jeu, validations utilisateurs, plusieurs niveaux de difficulté.
 
+**Projet pédagogique – Robots Blue-Bot (école primaire)**  
+Animation de séances pour apprendre le repérage spatial à des élèves de CP à l’aide de robots programmables.
+
+
 
 ---
 
