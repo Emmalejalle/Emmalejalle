@@ -37,6 +37,6 @@ Gestion complète de la logique du jeu, validations utilisateurs, plusieurs nive
 ---
 
 ## 📫 Me contacter
-
+- mail : emmalejalle4@gmail.com
 - LinkedIn : https://www.linkedin.com/in/emma-le-jall%C3%A9-228283349/
 - Portfolio : https://lejalle-emma.notion.site/Comp-tences-de-BUT-1-129557d6f0668141a751eface0045b03
