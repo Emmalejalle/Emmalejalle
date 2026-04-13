@@ -2,7 +2,6 @@
 
 🎓 BUT Informatique – IUT de Vannes  
 💻 Développement 
-📅 Recherche de stage : 13 avril → 19 juin 2026
 
 ---
 
