@@ -7,7 +7,7 @@
 
 ##  À propos
 
-Étudiante en deuxième année de BUT Informatique, je développe des applications en Java et JavaFX en architecture MVC, je conçois des interfaces avec Figma et je travaille régulièrement sur des projets mêlant logique, interface graphique et organisation du code.
+Étudiante en troisième année de BUT Informatique, je développe des applications en Java et JavaFX en architecture MVC, je conçois des interfaces avec Figma et je travaille régulièrement sur des projets mêlant logique, interface graphique et organisation du code.
 
 ---
 
