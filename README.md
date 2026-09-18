@@ -31,7 +31,7 @@ Intégration du site one-page à partir d'une maquette Figma fournie par le clie
 
 ## Projets personnels
 
-**Portfolio personnel**
+**Portfolio personnel (en cours)**
 Site en Next.js/Tailwind
 
 ---
