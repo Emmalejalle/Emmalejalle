@@ -9,7 +9,7 @@
 
 Étudiante en troisième année de BUT Informatique, actuellement en recherche de stage (25 janvier – 14 mai). J'ai réalisé un stage chez Selltim (agence web) où j'ai développé des sites et applications en Next.js, WordPress headless et NestJS pour des clients variés. Je conçois aussi les interfaces sous Figma. Je travaille régulièrement sur des projets mêlant logique, interface graphique et organisation du code.
 
-> Les projets réalisés en agence (Kenteleg, Menuisiers Bretons, Hamelin Agencement...) appartiennent à mes clients et ne sont donc pas publics ici pour raisons de confidentialité — je peux les présenter en détail (démo, captures, explications techniques) sur demande.
+> Les projets réalisés en agence (Kenteleg, Menuisiers Bretons, Hamelin Agencement...) appartiennent aux clients de Selltim et ne sont donc pas publics ici pour raisons de confidentialité — je peux les présenter en détail (démo, captures, explications techniques) sur demande.
 
 ---
 
